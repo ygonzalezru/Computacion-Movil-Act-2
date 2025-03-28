@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SecondActivity</string>
+    <string name="etTask">Introduzca la tarea</string>
+    <string name="btnAd">Adicionar la tarea</string>
+    <string name="namTask">Ingresa el nombre de la tarea</string>
+    <string name="btnDeclinar">Declinar</string>
+    <string name="btnSave">Editar</string>
+    <string name="texTittle">Menú tareas</string>
+
+</resources>
